@@ -1,0 +1,14 @@
+name: Commerce CyberSource
+type: module
+description: 'Integrates the following CyberSource APIs: SAHC and Flex Microform.'
+package: Commerce (contrib)
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - commerce:commerce_payment
+  - commerce:commerce_order
+  - commerce:commerce_log
+
+# Information added by Drupal.org packaging script on 2021-04-01
+version: '8.x-1.0-beta6'
+project: 'commerce_cybersource'
+datestamp: 1617276806

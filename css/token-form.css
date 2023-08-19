@@ -1,0 +1,13 @@
+#cybersource-card-number,
+#cybersource-card-cvv {
+  border: 1px solid #767676;
+  border-radius: 1px;
+  height: 2em;
+  width: 15em;
+}
+#cybersource-card-cvv {
+  width: 5em;
+}
+.cybersource-field {
+  height: 100%;
+}

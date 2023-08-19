@@ -1,0 +1,24 @@
+commerce_payment.commerce_payment_gateway.plugin.cybersource_sahc:
+  type: commerce_payment_gateway_configuration
+  mapping:
+    merchant_id:
+      type: string
+      label: 'Merchant ID'
+    profile_id:
+      type: string
+      label: 'Profile ID'
+    access_key:
+      type: string
+      label: 'Access Key'
+    secret_key:
+      type: string
+      label: 'Secret Key'
+    transaction_type:
+      type: string
+      label: 'Transaction type'
+    locale:
+      type: string
+      label: 'Locale'
+    log_api_calls:
+      type: boolean
+      label: 'Log API requests and responses.'
