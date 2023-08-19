@@ -1,5 +1,5 @@
 {
-    "name": "drupal/commerce_cybersource",
+    "name": "mbgna/commerce_cybersource",
     "type": "drupal-module",
     "description": "Centarro Commerce integration for multiple CyberSource APIs.",
     "homepage": "https://www.drupal.org/project/commerce_cybersource",
